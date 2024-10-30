@@ -1,0 +1,6 @@
+pandas==2.2.3
+seaborn==0.13.2
+matplotlib==3.9.2
+matplotlib-inline==0.1.7
+simple filter==0.14
+plotly==5.24.1
